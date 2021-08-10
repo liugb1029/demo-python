@@ -1,4 +1,4 @@
-FROM vecps.cargo.io/library/python:3.6.5
+FROM docker.io/liugb1029/python:3.6.5
 
 WORKDIR /usr/src/app
 
